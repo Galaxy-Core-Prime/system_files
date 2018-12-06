@@ -1,0 +1,173 @@
+2
+00:00:02,952 --> 00:00:04,952
+Watch this video to learn
+how to set up Wi-Fi and
+
+3
+00:00:05,000 --> 00:00:09,000
+Bluetooth on your Samsung
+Galaxy S 5 from Verizon.
+
+4
+00:00:11,000 --> 00:00:13,000
+Open the Notification Panel
+by touching and sliding
+
+5
+00:00:13,000 --> 00:00:15,602
+down from the top
+of the screen.
+
+6
+00:00:18,000 --> 00:00:21,000
+Tap the Settings icon in
+the upper right.
+
+7
+00:00:22,000 --> 00:00:24,000
+Then, tap Wi-Fi.
+
+8
+00:00:26,000 --> 00:00:29,000
+Make sure Wi-Fi is turned
+on by sliding the Wi-Fi
+
+9
+00:00:29,000 --> 00:00:31,000
+switch to the right.
+
+10
+00:00:33,000 --> 00:00:36,000
+Wi-Fi will turn on and a
+list of nearby Wi-Fi
+
+11
+00:00:36,000 --> 00:00:39,000
+networks will appear.
+Tap the one you want
+
+12
+00:00:39,007 --> 00:00:40,279
+to connect to.
+
+13
+00:00:42,000 --> 00:00:46,000
+If you are connecting to a
+secure network, you will
+
+14
+00:00:46,000 --> 00:00:50,000
+need to enter its password.
+Once done, tap Connect.
+
+15
+00:00:53,148 --> 00:00:56,000
+You should now see
+Connected underneath the
+
+16
+00:00:56,000 --> 00:00:58,000
+network name.
+
+17
+00:00:59,000 --> 00:01:01,000
+Now let us look at
+connecting a Bluetooth
+
+18
+00:01:01,000 --> 00:01:02,379
+device to your phone.
+
+19
+00:01:03,000 --> 00:01:06,000
+Tap the back button to
+return to Settings.
+
+20
+00:01:07,000 --> 00:01:11,000
+To set-up Bluetooth,
+tap Bluetooth.
+
+21
+00:01:13,000 --> 00:01:15,000
+Make sure Bluetooth is
+turned on by sliding the
+
+22
+00:01:15,000 --> 00:01:17,284
+Bluetooth switch to the right.
+
+23
+00:01:19,000 --> 00:01:23,000
+Bluetooth will turn on and
+a list of nearby Bluetooth
+
+24
+00:01:23,000 --> 00:01:24,000
+devices will appear.
+
+25
+00:01:24,628 --> 00:01:27,000
+Please note that the device
+you are attempting to pair
+
+26
+00:01:27,000 --> 00:01:29,000
+with must be in discovery
+mode or the scan
+
+27
+00:01:29,000 --> 00:01:32,000
+will not find it.
+Once you have found the
+
+28
+00:01:32,000 --> 00:01:36,000
+device you want to pair with,
+select it.
+
+29
+00:01:36,811 --> 00:01:39,000
+You may need to confirm an
+already existing password
+
+30
+00:01:39,023 --> 00:01:43,452
+for pairing.
+If this is the case, tap OK.
+
+31
+00:01:43,515 --> 00:01:46,000
+On the phone, connected
+devices will show under the
+
+32
+00:01:46,000 --> 00:01:48,000
+paired devices list.
+
+33
+00:01:49,000 --> 00:01:52,000
+Press the Home key
+when complete.
+
+34
+00:01:53,000 --> 00:01:56,000
+To quickly turn Bluetooth
+on and off, you can use the
+
+35
+00:01:56,000 --> 00:01:59,000
+Notification Panel by
+touching and sliding your
+
+36
+00:01:59,000 --> 00:02:02,000
+finger down from the top
+of the screen.
+
+37
+00:02:03,000 --> 00:02:05,000
+Then, tap Bluetooth.
+
+38
+00:02:05,079 --> 00:02:05,579
